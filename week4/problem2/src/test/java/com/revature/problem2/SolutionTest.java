@@ -31,6 +31,6 @@ public class SolutionTest {
     @Test
     public void test4() {
         List<String> list = Arrays.asList("com", "computer", "incomplete", "recomb", "capcom", "compos", "sitcom");
-        assertEquals(Arrays.asList("computer", "compos"), s.autoComplete(list));
+        assertEquals(Arrays.asList("compos", "computer"), s.autoComplete(list));
     }
 }
