@@ -23,7 +23,7 @@
     {
       "name": "Problem 3",
       "setup": "",
-      "run": "cd week4/problem3 && mvnt test",
+      "run": "cd week4/problem3 && mvn test",
       "input": "",
       "output": "",
       "comparison": "included",
